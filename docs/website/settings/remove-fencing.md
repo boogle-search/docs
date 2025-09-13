@@ -7,7 +7,7 @@ hide_table_of_contents: true
 
 Allows sprites to move offscreen, become as large or as small as they want, and allows touching blocks to work offscreen.
 
-This may slightly improve performance in some projects.
+This may slightly improve performance in some projects but is not necessary because you can set the size to 1/2 .
 
 :::caution
 This may break some projects.
