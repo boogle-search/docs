@@ -11,6 +11,8 @@ High Quality Pen allows pen projects to render at a higher resolution rather tha
 High quality pen can significantly reduce performance, especially when in fullscreen mode, as there are just so many more pixels that have to be drawn.
 
 Not all projects will look better with high quality pen enabled.
+
+If you are using this with Simple3D then it will not render in fullscreen mode if you want a pause or something like that.
 :::
 
 <table>
